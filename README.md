@@ -34,11 +34,11 @@ Currently, I'm looking for my first opportunity as a developer while expanding m
 
 ## 🚀 Featured Projects
 
-### 🗺️ [Rutas Deportivas] (https://github.com/El-Jesule/RutasDeportivas.git)
+### 🗺️ [Rutas Deportivas](https://github.com/El-Jesule/RutasDeportivas)
 
 A web application to create and customize sports routes with distance, elevation, estimated calories burned, and interactive maps.
 
-### 🌍 [FIFA World Cup 2026] (https://github.com/Willfredy742/worldCup2026.git)
+### 🌍 [FIFA World Cup 2026](https://github.com/Willfredy742/worldCup2026)
 
 An interactive World Cup website developed during a bootcamp, featuring knockout stage visualization and dynamic match navigation.
 
